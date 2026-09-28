@@ -5,7 +5,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=4B0082&height=200&section=header&text=JUAN%20ESPER&fontSize=50&fontColor=ffffff&desc=Análisis%20y%20Desarrollo%20de%20Software&descSize=20" width="100%" />
 
 <br><br>
-
 <!-- Foto de Perfil Circular -->
 <!-- Reemplaza TU_USUARIO por tu nombre de usuario real de GitHub -->
 <img src="https://github.com/juansebastianesper-ai.png" width="150" style="border-radius: 50%;">
